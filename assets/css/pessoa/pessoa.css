@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.pessoa{
+    display: flex;
+    flex-direction: column;
+}
